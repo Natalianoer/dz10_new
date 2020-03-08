@@ -1,0 +1,11 @@
+*.log*
+**node_modules/
+**_eslintrc.yml
+
+**.DS_Store
+**Thumbs.db
+
+**.idea
+*.sublime*
+**.vscode
+public/
